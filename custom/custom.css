@@ -1,0 +1,107 @@
+/* Insert Your Custom CSS Here */
+
+table.dataTable thead .sorting, 
+table.dataTable thead .sorting_asc, 
+table.dataTable thead .sorting_desc {
+    background : none !important;
+}
+
+.list-view .items .view {
+    border: 1px solid #e7e7e7;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+
+/*************************/
+
+
+#payment_confirmation {
+    border: 3px dashed #19a45b;
+    color: #808080;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+
+
+
+
+/*************************/
+
+
+div.days {
+    font-size: 42px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 64px;
+    float: left;
+}
+div.days p.days_number{
+    font-size: 42px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 64px;
+}
+div.days p.days_text{
+    font-size: 28px;
+    font-weight: normal;
+    height: 30px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 64px;
+}
+div.trial_text{
+	float: left;
+    font-size: 38px;
+    font-weight: normal;
+    line-height: 69px;
+    margin-left: 20px;
+}
+div.get_started .get_started_button{
+    float: left;
+	margin: 9px 15px 0 0;
+    display: inline-block;
+}
+div.get_started .get_started_img{
+    float: left;
+	line-height: 72px;
+    display: inline-block;
+}
+div.get_started_container{
+    background: url("../img/paypal_button_bg.png");
+    background-repeat: no-repeat;
+    height: 75px;
+    padding: 8px 0 0 60px;
+}
+div.get_started_container .get_started_button{
+    display: inline-block;
+    float: left;
+    margin: 9px 15px 0 0;
+    padding: 4px 6px;
+    font-size: 14px;
+}
+
+div.why_snaptiks{
+    background-color: white;
+    border: 3px solid #1fae66;
+    text-align: left;
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: lighter;
+    margin-top: 35px;
+    margin-bottom: 0;
+}
+div.why_snaptiks p{
+    margin: 12px 0;
+}
+div.why_snaptiks p span{
+    color: #f89c2c;
+    font-weight: bold;
+}

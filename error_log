@@ -1,0 +1,35 @@
+[17-Nov-2014 14:18:03 America/Chicago] PHP Fatal error:  Call to a member function api() on a non-object in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 449
+[17-Nov-2014 14:20:38 America/Chicago] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 454
+[18-Nov-2014 05:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 460
+[20-Nov-2014 12:29:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home4/snaptiks/public_html/gamma2/protected/views/site/form.php on line 6
+[20-Nov-2014 13:13:58 America/Chicago] Bad Signed JSON signature!
+[20-Nov-2014 13:13:58 America/Chicago] Bad Signed JSON signature!
+[21-Nov-2014 10:22:02 America/Chicago] CSRF state token does not match one provided.
+[05-Dec-2014 06:24:46 America/Chicago] PHP Parse error:  syntax error, unexpected ''/forms/1.swf\'; ?>" /> \' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home4/snaptiks/public_html/gamma2/protected/views/admin/forms.php on line 278
+[08-Dec-2014 10:25:07 America/Chicago] CSRF state token does not match one provided.
+[08-Dec-2014 14:10:27 America/Chicago] CSRF state token does not match one provided.
+[08-Dec-2014 21:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 236
+[08-Dec-2014 21:30:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 236
+[12-Dec-2014 10:46:11 America/Chicago] PHP Fatal error:  Class 'CListIterator' not found in /home4/snaptiks/public_html/yii/framework/collections/CList.php on line 91
+[12-Dec-2014 10:58:45 America/Chicago] PHP Fatal error:  Call to undefined function display_access_tokens() in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 600
+[12-Dec-2014 10:59:40 America/Chicago] PHP Fatal error:  Call to undefined function display_access_tokens() in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 600
+[12-Dec-2014 10:59:44 America/Chicago] PHP Fatal error:  Call to undefined function display_access_tokens() in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 600
+[12-Dec-2014 11:00:38 America/Chicago] PHP Fatal error:  Call to undefined function get_self() in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 622
+[18-Dec-2014 09:03:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 183
+[18-Dec-2014 14:47:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 578
+[18-Dec-2014 15:53:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 578
+[18-Dec-2014 18:23:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 576
+[18-Dec-2014 18:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''name' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 380
+[18-Dec-2014 18:24:20 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 576
+[18-Dec-2014 18:24:41 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 576
+[18-Dec-2014 18:25:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home4/snaptiks/public_html/gamma2/protected/controllers/AdminController.php on line 467
+[18-Dec-2014 19:48:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 228
+[18-Dec-2014 19:48:37 America/Chicago] PHP Fatal error:  Class declarations may not be nested in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 243
+[18-Dec-2014 19:49:01 America/Chicago] PHP Warning:  Unexpected character in input:  '' (ASCII=1) state=0 in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 575
+[18-Dec-2014 20:04:31 America/Chicago] PHP Warning:  Unexpected character in input:  '' (ASCII=1) state=0 in /home4/snaptiks/public_html/gamma2/protected/extensions/jsonRPCClient.php on line 275
+[18-Dec-2014 20:10:10 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 236
+[18-Dec-2014 20:13:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/snaptiks/public_html/gamma2/protected/controllers/SiteController.php on line 244
+[07-Apr-2015 15:41:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/snaptiks/public_html/EgyptLinx/protected/views/site/form.php on line 9
+[07-Apr-2015 15:42:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/snaptiks/public_html/EgyptLinx/protected/views/site/form.php on line 9
+[07-Apr-2015 15:42:16 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/snaptiks/public_html/EgyptLinx/protected/views/site/form.php on line 9
+[07-Apr-2015 15:42:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/snaptiks/public_html/EgyptLinx/protected/views/site/form.php on line 9
